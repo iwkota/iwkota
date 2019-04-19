@@ -24,8 +24,8 @@ int main(void)
     int n=200; //step数
     int array_num=2*n+1;
     
-    char array_new[array_num];
     char array_old[array_num];
+    char array_new[array_num];
     
     for(int i=0;i<array_num;i++){
         array_new[i]='0';
