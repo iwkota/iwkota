@@ -21,7 +21,7 @@ int main(void)
         rule_num/=2;
     }
     
-    int n=500; //step数
+    int n=200; //step数
     int array_num=2*n+1;
     
     char array_new[array_num];
